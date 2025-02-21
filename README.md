@@ -7,6 +7,8 @@ This project is a **content-based movie recommendation system** that suggests si
 The dataset used is from **[TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)** on Kaggle, which includes:
 - `tmdb_5000_movies.csv`: Contains movie details like title, overview, genres, keywords, etc.
 - `tmdb_5000_credits.csv`: Contains cast and crew details.
+
+
 These are not available on GitHub due to the large file size.You can get it by clicking on above link.
 
 ## 🚀 Features
@@ -23,8 +25,8 @@ These are not available on GitHub due to the large file size.You can get it by c
 - **NumPy** (Numerical operations)
 - **Scikit-learn** (TF-IDF Vectorization, Cosine Similarity)
 - **Pickle** (Saving model for reuse)
-   ```
-4. **Contributing:**
+  
+##  Contributing:
    Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## 📜 License
