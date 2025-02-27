@@ -1,8 +1,7 @@
 # Movie Recommendation System
 
 ## 📌 Overview
-This project is a **content-based movie recommendation system** that suggests similar movies based on their genres, keywords, cast, and crew. It uses **TF-IDF Vectorization** and **Cosine Similarity** to find the most relevant movies based on textual data.UI Coming soon.
-
+This project is a **content-based movie recommendation system** that suggests similar movies based on their genres, keywords, cast, and crew. It uses **TF-IDF Vectorization** and **Cosine Similarity** to find the most relevant movies based on textual data.The app is built using Streamlit for the user interface and fetches movie posters using the TMDB API.
 ## 📂 Dataset
 The dataset used is from **[TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)** on Kaggle, which includes:
 - `tmdb_5000_movies.csv`: Contains movie details like title, overview, genres, keywords, etc.
