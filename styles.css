@@ -1,0 +1,7 @@
+/* Apply gradient background */
+.stApp {
+    background: linear-gradient(135deg, #a7aab2, #92bdef); 
+    background-position: center;
+    height: 100vh;
+}
+
